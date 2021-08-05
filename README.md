@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
 
 <!--
