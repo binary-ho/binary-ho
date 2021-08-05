@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
 
 <!--
 **binary-ho/binary-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
