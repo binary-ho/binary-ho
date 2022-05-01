@@ -3,8 +3,8 @@
 
 
 
-**I took a double major in ⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering!🖥️**    
-**⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공!**    
+<!--**I took a double major in ⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering!🖥️**   -->
+**⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**    
 **꾸준함이 장점입니다! 문제가 해결 될 때까지 공부합니다!**
 
 ## 🌱 I Love 
