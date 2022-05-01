@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binary-ho" width="28%">
 </p>
 <!--
