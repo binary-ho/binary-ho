@@ -1,8 +1,9 @@
 ### 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-ho)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=binary-ho&show_icons=true&theme=dark" width = "65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binary-ho" width="28%">
 <!--
 **binary-ho/binary-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
