@@ -24,7 +24,7 @@
 #### 1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi]
 [KkokKkogi]: https://github.com/binary-ho/KkokKkogi "Go KkokKkogi"
 
-- 복지사나 가정의 보호자를 위한 독거노인이나 장애 아동을 복약 알람 어플리케이션  
+- 복지사나 보호자를 위한 독거노인이나 장애 아동 대상 복약 알람 어플리케이션  
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
