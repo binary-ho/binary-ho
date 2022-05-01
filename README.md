@@ -12,6 +12,7 @@
 
 ### and Problem Solving! (with C++)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)
+**and I finished a lecture of Samsung dx winter S/W algorithm.**
 
 #### I'm currently learning.. 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
