@@ -4,8 +4,8 @@
 
 
 **I took a double major in ⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering!🖥️**    
-**⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**
-**꾸준히 열의를 가지고 공부합니다!**
+**⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공!**    
+**꾸준함이 장점입니다! 문제가 해결 될 때까지 공부합니다!**
 
 ## 🌱 I Love 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
