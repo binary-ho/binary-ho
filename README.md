@@ -4,7 +4,7 @@
 
 
 <!--**I took a double major in ⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering!🖥️**   -->
-### **⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**    
+<!-- ### **⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**    -->
 ### **꾸준함과 열정이 장점입니다! 문제가 해결 될 때까지 시도합니다!**
 
 # 🌱 I Love 
@@ -25,14 +25,14 @@
 
 # 🔥 Projects 🔥
 
-### 1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi]
+### 1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi] (21/11/01 \~ 21/12/07)
 [KkokKkogi]: https://github.com/binary-ho/KkokKkogi "Go KkokKkogi"
 
 - 복지사나 보호자를 위한 독거노인이나 장애 아동 대상 복약 알람 어플리케이션  
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
-### 2. 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos]
+### 2. 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos] (20/10/18 \~ 20/11/25)
 [FiveNightsAtJinhos]: https://github.com/binary-ho/Five-Nights-at-Jinho-s "Go FiveNightsAtJinhos"
 
 - 유명 공포 게임 Five Night's At Freddy's의 카피 게임
