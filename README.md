@@ -64,7 +64,8 @@
 #### 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos] (20/10/18 \~ 20/11/25)
 [FiveNightsAtJinhos]: https://github.com/binary-ho/Five-Nights-at-Jinho-s "Go FiveNightsAtJinhos"
 
-- ![Screenshot (4)](https://user-images.githubusercontent.com/71186266/157548190-18a2290a-71d3-481c-8b0b-c1cef5885091.png)
+
+- <img src="https://user-images.githubusercontent.com/71186266/157548182-4fa76d1f-b31b-4059-97a5-d0a077fcd1cd.png" width=60%>
 - 유명 공포 게임 Five Night's At Freddy's의 카피 게임
 - 코드를 찾아보지 않고, 다회의 플레이로 직접 비슷한 플레이 구현
 - <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity3D-181717?style=for-the-badge&logo=unity&logoColor=white">
