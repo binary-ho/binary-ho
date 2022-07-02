@@ -28,7 +28,7 @@
 #### 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi] (21/11/01 \~ 21/12/07)
 [KkokKkogi]: https://github.com/binary-ho/KkokKkogi "Go KkokKkogi"
 
-- ![1스타트](https://user-images.githubusercontent.com/71186266/157553114-00a5305b-dd24-4cc5-bdaf-b589dc869b97.png)
+- <img src="https://user-images.githubusercontent.com/71186266/157553114-00a5305b-dd24-4cc5-bdaf-b589dc869b97.png" width=40%>
 - 복지사나 보호자를 위한 독거노인이나 장애 아동 대상 복약 알람 어플리케이션  
 - 회원가입, 로그인, 회원 종류에 따라 다른 화면, 간편한 대리 알람 설정, 알람 확인, 실시간 채팅, 접속 확인 등 구현
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -51,7 +51,7 @@
 #### 음식을 주문하고 지도에서 모아 보는 [<U>Order Mark Map</U>][OrderMarkMap]
 [OrderMarkMap]: https://github.com/binary-ho/order-mark-map "Go OrderMarkMap"
 
-- ![깃허브용 성공](https://user-images.githubusercontent.com/71186266/158461673-7d562373-6496-4c71-ae85-7ab6c86c96f6.png)
+- <img src="https://user-images.githubusercontent.com/71186266/158461673-7d562373-6496-4c71-ae85-7ab6c86c96f6.png" width=50%>
 - 스프링 부트 강의를 듣고 배운 내용들을 적용하고, 외부 API를 적용해 보기 위해 만듦
 - 주문을 넣어 데이터 베이스에 넣고, 카카오 지도 상에 모두 표시하는 프로젝트
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=black"> <img src="https://img.shields.io/badge/H2-2E9FFF?style=for-the-badge&logo=&logoColor=black"> 
