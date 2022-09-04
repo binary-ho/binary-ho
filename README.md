@@ -7,17 +7,18 @@
 <!-- ### **⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**    -->
 ### **꾸준함과 열정이 장점입니다! 문제가 해결 될 때까지 시도합니다!**
 
-# 🌱 자주 사용합니다.
+## 🌱 자주 사용합니다.
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
+## 🖥️ 공부 중입니다
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 ### Problem Solving (with C++)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)    
 
 ### finished a course of Samsung dx winter S/W algorithm
 
 ## 사용해 보았습니다
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  <img src="https://img.shields.io/badge/Unity3D-181717?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  <img src="https://img.shields.io/badge/Unity3D-181717?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
 
 
 
@@ -48,7 +49,7 @@
 - **CI/CD**: Travis CI를 통해 프로젝트 push 발생시 자동으로 빌드함. 빌드한 jar 파일은 Amazone S3에 저장되고, Amazone Deploy에 배포 요청함. Amazone Deploy에서는 배포 요청시 S3에서 빌드 파일 가져와서 배포함.
 - 시작 버튼을 누르면 익명 채팅방에 입장하게 됩니다. 자동으로 닉네임과 색상이 주어집니다. 
 - 시작 버튼을 누를 시 모든 참여자는 같은 prefixes를 가지는 api를 구독합니다. 채팅을 입력하고 전송 버튼을 누를 시, 같은 prefixes를 구독하는 모든 참여자들에게 매세지를 전달합니다. 응용하면 다수의 방이나 개인간 채팅도 구현이 가능합니다.
-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </details>
 
 
@@ -59,7 +60,7 @@
 
 - ![단감 1](https://user-images.githubusercontent.com/71186266/169736798-12be0982-48e8-4940-b754-7447bb3a41ab.PNG)
 - Ruby와 Rails를 공부해본 내용을 테스트 해보기 위해 만든 단순한 CRUD 프로젝트
-- <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </details>
 
 
