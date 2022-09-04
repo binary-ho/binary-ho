@@ -7,16 +7,17 @@
 <!-- ### **⚡Electronic Engineering⚡ and 🖥️Computer Science & Engineering🖥️ 복수 전공**    -->
 ### **꾸준함과 열정이 장점입니다! 문제가 해결 될 때까지 시도합니다!**
 
-# 🌱 I Love 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+# 🌱 자주 사용합니다.
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-### and Problem Solving! (with C++)
+
+### Problem Solving (with C++)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)    
 
-### I finished a course of Samsung dx winter S/W algorithm!
+### finished a course of Samsung dx winter S/W algorithm
 
-## And.. I learned a little about..
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Unity3D-181717?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+## 사용해 보았습니다
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  <img src="https://img.shields.io/badge/Unity3D-181717?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
 
 
 
@@ -35,18 +36,35 @@
 </details>
 
 <details>
-<summary> 2. Rails로 만든 단순 CRUD 사이트 단감마켓 </summary>
+<summary>  2. 익명 채팅 웹 시장통 </summary>
+
+#### 익명 채팅방 [<U>시장통</U>][sijangtong]
+[sijangtong]: https://github.com/binary-ho/sijangtong-client "Go sijangtong"
+
+- <img src="https://user-images.githubusercontent.com/71186266/157553114-00a5305b-dd24-4cc5-bdaf-b589dc869b97.png" width=40%>
+- **[<U> 시장통 서버 </U>](https://github.com/binary-ho/sijangtong-server)**: Spring STOMP + WebSocket로 구현.
+- **[<U> 시장통 클라이언트 </U>](https://github.com/binary-ho/sijangtong-client)**: React로 구성 SockJS로 서버와 통신. 
+- **배포**: AWS EC2에 두 프로젝트를 동시에 배포. 서버 프로젝트는 nohup으로, 클라이언트 프로젝트는 pm2로 배포중.
+- **CI/CD**: Travis CI를 통해 프로젝트 push 발생시 자동으로 빌드함. 빌드한 jar 파일은 Amazone S3에 저장되고, Amazone Deploy에 배포 요청함. Amazone Deploy에서는 배포 요청시 S3에서 빌드 파일 가져와서 배포함.
+- 시작 버튼을 누르면 익명 채팅방에 입장하게 됩니다. 자동으로 닉네임과 색상이 주어집니다. 
+- 시작 버튼을 누를 시 모든 참여자는 같은 prefixes를 가지는 api를 구독합니다. 채팅을 입력하고 전송 버튼을 누를 시, 같은 prefixes를 구독하는 모든 참여자들에게 매세지를 전달합니다. 응용하면 다수의 방이나 개인간 채팅도 구현이 가능합니다.
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+</details>
+
+
+<details>
+<summary> 3. Rails로 만든 단순 CRUD 사이트 단감마켓 </summary>
 
 #### Rails로 만든 단순 CRUD 사이트 [<U>단감마켓</U>](https://github.com/binary-ho/dangam-market) (22/05/21 ~ 22/05/22)
 
 - ![단감 1](https://user-images.githubusercontent.com/71186266/169736798-12be0982-48e8-4940-b754-7447bb3a41ab.PNG)
 - Ruby와 Rails를 공부해본 내용을 테스트 해보기 위해 만든 단순한 CRUD 프로젝트
-- <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> <img src="https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </details>
 
 
 <details>
-<summary> 3. 음식을 주문하고 지도에서 모아 보는 Order Mark Map </summary>
+<summary> 4. 음식을 주문하고 지도에서 모아 보는 Order Mark Map </summary>
 
 #### 음식을 주문하고 지도에서 모아 보는 [<U>Order Mark Map</U>][OrderMarkMap]
 [OrderMarkMap]: https://github.com/binary-ho/order-mark-map "Go OrderMarkMap"
@@ -59,12 +77,12 @@
 </details>
 
 <details>
-<summary> 4. 카피 게임 Five Night's At Jinho's </summary>
+<summary> 5. 카피 게임 Five Night's At Jinho's </summary>
 
 #### 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos] (20/10/18 \~ 20/11/25)
 [FiveNightsAtJinhos]: https://github.com/binary-ho/Five-Nights-at-Jinho-s "Go FiveNightsAtJinhos"
 
-
+  
 - <img src="https://user-images.githubusercontent.com/71186266/157548182-4fa76d1f-b31b-4059-97a5-d0a077fcd1cd.png" width=60%>
 - 유명 공포 게임 Five Night's At Freddy's의 카피 게임
 - 코드를 찾아보지 않고, 다회의 플레이로 직접 비슷한 플레이 구현
