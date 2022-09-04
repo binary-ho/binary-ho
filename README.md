@@ -32,7 +32,7 @@
 ## 🔥 Projects 🔥
 
 <details>
-<summary>  **1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 꼭꼭이** </summary>
+<summary>  <b> 1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 꼭꼭이 </b> </summary>
 
 #### 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi] (21/11/01 \~ 21/12/07)
 [KkokKkogi]: https://github.com/binary-ho/KkokKkogi "Go KkokKkogi"
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary>  **2. 익명 채팅 웹 시장통** </summary>
+<summary>  <b> 2. 익명 채팅 웹 시장통 </b> </summary>
 
 #### 익명 채팅방 [<U>시장통</U>][sijangtong]
 [sijangtong]: https://github.com/binary-ho/sijangtong-client "Go sijangtong"
@@ -61,7 +61,7 @@
 
 
 <details>
-<summary> **3. Rails로 만든 단순 CRUD 사이트 단감마켓** </summary>
+<summary> <b> 3. Rails로 만든 단순 CRUD 사이트 단감마켓 </b> </summary>
 
 #### Rails로 만든 단순 CRUD 사이트 [<U>단감마켓</U>](https://github.com/binary-ho/dangam-market) (22/05/21 ~ 22/05/22)
 
@@ -72,7 +72,7 @@
 
 
 <details>
-<summary> **4. 음식을 주문하고 지도에서 모아 보는 Order Mark Map** </summary>
+<summary> <b> 4. 음식을 주문하고 지도에서 모아 보는 Order Mark Map </b> </summary>
 
 #### 음식을 주문하고 지도에서 모아 보는 [<U>Order Mark Map</U>][OrderMarkMap]
 [OrderMarkMap]: https://github.com/binary-ho/order-mark-map "Go OrderMarkMap"
@@ -85,7 +85,7 @@
 </details>
 
 <details>
-<summary> **5. 카피 게임 Five Night's At Jinho's** </summary>
+<summary> <b> 5. 카피 게임 Five Night's At Jinho's </b> </summary>
 
 #### 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos] (20/10/18 \~ 20/11/25)
 [FiveNightsAtJinhos]: https://github.com/binary-ho/Five-Nights-at-Jinho-s "Go FiveNightsAtJinhos"
