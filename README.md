@@ -1,3 +1,4 @@
+
 🙋‍♂️ Hello! I'm Jinho 🙋‍♂️
 ==
 
@@ -49,7 +50,8 @@
 #### 익명 채팅방 [<U>시장통</U>][sijangtong]
 [sijangtong]: https://github.com/binary-ho/sijangtong-client "Go sijangtong"
 
-- <img src="https://user-images.githubusercontent.com/71186266/157553114-00a5305b-dd24-4cc5-bdaf-b589dc869b97.png" width=40%>
+- <img src="https://user-images.githubusercontent.com/71186266/188351720-62bc1226-6fdb-4dfb-b1bc-cb18eb22fea8.png" width=60%> 
+- <img src="https://user-images.githubusercontent.com/71186266/188351715-0c549b79-097b-4370-8744-0a1748918abf.png" width=60%>
 - **[<U> 시장통 서버 </U>](https://github.com/binary-ho/sijangtong-server)**: Spring STOMP + WebSocket로 구현.
 - **[<U> 시장통 클라이언트 </U>](https://github.com/binary-ho/sijangtong-client)**: React로 구성 SockJS로 서버와 통신. 
 - **배포**: AWS EC2에 두 프로젝트를 동시에 배포. 서버 프로젝트는 nohup으로, 클라이언트 프로젝트는 pm2로 배포중.
