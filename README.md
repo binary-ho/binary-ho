@@ -45,20 +45,20 @@
 </details>
 
 <details>
-<summary>  <b> 2. 익명 채팅 웹 시장통 </b> </summary>
+<summary>  <b> 2. 익명 채팅 웹 사이트 시장통 </b> </summary>
 
-#### 익명 채팅방 [<U>시장통</U>][sijangtong]
+#### 익명 채팅 웹 사이트 [<U>시장통</U>][sijangtong]
 [sijangtong]: https://github.com/binary-ho/sijangtong-client "Go sijangtong"
 
 - <img src="https://user-images.githubusercontent.com/71186266/188351720-62bc1226-6fdb-4dfb-b1bc-cb18eb22fea8.png" width=60%> 
 - <img src="https://user-images.githubusercontent.com/71186266/188351715-0c549b79-097b-4370-8744-0a1748918abf.png" width=60%>
-- **[<U> 시장통 서버 </U>](https://github.com/binary-ho/sijangtong-server)**: Spring STOMP + WebSocket로 구현.
-- **[<U> 시장통 클라이언트 </U>](https://github.com/binary-ho/sijangtong-client)**: React로 구성 SockJS로 서버와 통신. 
+- **[<U> 시장통 Server </U>](https://github.com/binary-ho/sijangtong-server)**: Spring STOMP + WebSocket로 구현.
+- **[<U> 시장통 Client </U>](https://github.com/binary-ho/sijangtong-client)**: React로 구성 SockJS로 서버와 통신. 
 - **배포**: AWS EC2에 두 프로젝트를 동시에 배포. 서버 프로젝트는 nohup으로, 클라이언트 프로젝트는 pm2로 배포중.
 - **CI/CD**: Travis CI를 통해 프로젝트 push 발생시 자동으로 빌드함. 빌드한 jar 파일은 Amazone S3에 저장되고, Amazone Deploy에 배포 요청함. Amazone Deploy에서는 배포 요청시 S3에서 빌드 파일 가져와서 배포함.
 - 시작 버튼을 누르면 익명 채팅방에 입장하게 됩니다. 자동으로 닉네임과 색상이 주어집니다. 
 - 시작 버튼을 누를 시 모든 참여자는 같은 prefixes를 가지는 api를 구독합니다. 채팅을 입력하고 전송 버튼을 누를 시, 같은 prefixes를 구독하는 모든 참여자들에게 매세지를 전달합니다. 응용하면 다수의 방이나 개인간 채팅도 구현이 가능합니다.
-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/travis ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=black">
+- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> /  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> / <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/travis ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=black">
 </details>
 
 
