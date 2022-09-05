@@ -56,7 +56,7 @@
 - **CI/CD**: Travis CI를 통해 프로젝트 push 발생시 자동으로 빌드함. 빌드한 jar 파일은 Amazone S3에 저장되고, Amazone Deploy에 배포 요청함. Amazone Deploy에서는 배포 요청시 S3에서 빌드 파일 가져와서 배포함.
 - 시작 버튼을 누르면 익명 채팅방에 입장하게 됩니다. 자동으로 닉네임과 색상이 주어집니다. 
 - 시작 버튼을 누를 시 모든 참여자는 같은 prefixes를 가지는 api를 구독합니다. 채팅을 입력하고 전송 버튼을 누를 시, 같은 prefixes를 구독하는 모든 참여자들에게 매세지를 전달합니다. 응용하면 다수의 방이나 개인간 채팅도 구현이 가능합니다.
-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/travis ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=black">
 </details>
 
 
