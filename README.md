@@ -21,7 +21,7 @@
 
 ## ⚡ 현재 사용중입니다 ⚡
 
-### 온라인 학습 플랫폼의 정석 MANEE
+### 온라인 학습 플랫폼의 정석 MANEE - [바로가기](https://manee-prod.web.app/)
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
 
