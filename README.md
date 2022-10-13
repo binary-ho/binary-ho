@@ -83,7 +83,7 @@
 
 - <img src="https://user-images.githubusercontent.com/71186266/158461673-7d562373-6496-4c71-ae85-7ab6c86c96f6.png" width=50%>
 - 스프링 부트 강의를 듣고 배운 내용들을 적용하고, 외부 API를 적용해 보기 위해 만듦
-- 주문을 넣어 데이터 베이스에 넣고, 카카오 지도 상에 모두 표시하는 프로젝트
+- 주문을 넣어 데이터 베이스에 넣고, 카카오 지도 상에 모두 표시합니다. 마우스를 올리면, 해당 주문의 상세 정보를 볼 수 있습니다.
 - <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=black"> <img src="https://img.shields.io/badge/H2-2E9FFF?style=for-the-badge&logo=&logoColor=black"> 
 - 그리고 카카오 지도 API 
 </details>
