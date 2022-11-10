@@ -63,9 +63,26 @@
 - <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> /  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> / <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/travis ci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=black">
 </details>
 
+<details>
+<summary>  <b> 3. ER 모델 부터 Entitiy까지 설계 해보는 프로젝트 디스코팡팡 (with MySQL) </b> </summary>
+
+#### 익명 채팅 웹 사이트 [<U>시장통</U>][sijangtong]
+[Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
+
+- <img src="https://user-images.githubusercontent.com/71186266/201029925-85c278b9-a794-47c8-8360-18e97fe3f40a.jpg" width=60%> 
+- <img src="https://user-images.githubusercontent.com/71186266/200966471-2501173d-4af0-43fb-9920-1be21d2d24d9.png" width=60%>
+- <img src="https://user-images.githubusercontent.com/71186266/201059647-1ed5f690-fb42-41d6-8a6c-ba31ff8e071c.png" width=40%> <img src="https://user-images.githubusercontent.com/71186266/201059652-14c7b0e3-e3d9-4294-a5c4-b77d2b97e004.png" width=40%> 
+
+
+- 쇼핑몰 쿠팡의 화면을 분석하여 DB를 비슷하게 설계해보는 프로젝트.
+- 추측한 내용을 기반으로 관계 모델과 ER 다이어그램을 그려보고 Spring Entitiy까지 설계.
+- 간단한 비즈니스 로직 작성이후, MySQL과 연동하여 쿼리를 날려 보았다. 
+
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+</details>
 
 <details>
-<summary> <b> 3. Rails로 만든 단순 CRUD 사이트 단감마켓 </b> </summary>
+<summary> <b> 4. Rails로 만든 단순 CRUD 사이트 단감마켓 </b> </summary>
 
 #### Rails로 만든 단순 CRUD 사이트 [<U>단감마켓</U>](https://github.com/binary-ho/dangam-market) (22/05/21 ~ 22/05/22)
 
@@ -76,7 +93,7 @@
 
 
 <details>
-<summary> <b> 4. 음식을 주문하고 지도에서 모아 보는 Order Mark Map </b> </summary>
+<summary> <b> 5. 음식을 주문하고 지도에서 모아 보는 Order Mark Map </b> </summary>
 
 #### 음식을 주문하고 지도에서 모아 보는 [<U>Order Mark Map</U>][OrderMarkMap]
 [OrderMarkMap]: https://github.com/binary-ho/order-mark-map "Go OrderMarkMap"
@@ -89,7 +106,7 @@
 </details>
 
 <details>
-<summary> <b> 5. 카피 게임 Five Night's At Jinho's </b> </summary>
+<summary> <b> 6. 카피 게임 Five Night's At Jinho's </b> </summary>
 
 #### 카피 게임 [<U>Five Night's At Jinho's</U>][FiveNightsAtJinhos] (20/10/18 \~ 20/11/25)
 [FiveNightsAtJinhos]: https://github.com/binary-ho/Five-Nights-at-Jinho-s "Go FiveNightsAtJinhos"
