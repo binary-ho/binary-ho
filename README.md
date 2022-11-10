@@ -66,7 +66,7 @@
 <details>
 <summary>  <b> 3. ER 모델 부터 Entitiy까지 설계 해보는 프로젝트 디스코팡팡 (MySQL + Spring Boot) </b> </summary>
 
-#### 익명 채팅 웹 사이트 [<U>시장통</U>][sijangtong]
+#### 쇼핑몰 DB 설계 프로젝트 디스코팡팡 [<U>디스코팡팡</U>][Discopangpang]
 [Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
 
 - <img src="https://user-images.githubusercontent.com/71186266/201029925-85c278b9-a794-47c8-8360-18e97fe3f40a.jpg" width=60%> 
