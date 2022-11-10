@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>  <b> 3. ER 모델 부터 Entitiy까지 설계 해보는 프로젝트 디스코팡팡 (with MySQL) </b> </summary>
+<summary>  <b> 3. ER 모델 부터 Entitiy까지 설계 해보는 프로젝트 디스코팡팡 (MySQL + Spring Boot) </b> </summary>
 
 #### 익명 채팅 웹 사이트 [<U>시장통</U>][sijangtong]
 [Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
