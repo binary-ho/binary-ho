@@ -33,9 +33,9 @@
 ## 🔥 Projects 🔥
 
 <details>
-<summary>  <b> 1. 사회적 약자를 위한 대리 알람 설정 어플리케이션 꼭꼭이 </b> </summary>
+<summary>  <b> 1. 디지털 소외 계층을 위한 대리 알람 설정 어플리케이션 꼭꼭이 </b> </summary>
 
-#### 사회적 약자를 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi] (21/11/01 \~ 21/12/07)
+#### 디지털 소외 계층을 위한 대리 알람 설정 어플리케이션 [<U>꼭꼭이</U>][KkokKkogi] (21/11/01 \~ 21/12/07)
 [KkokKkogi]: https://github.com/binary-ho/KkokKkogi "Go KkokKkogi"
 
 - <img src="https://user-images.githubusercontent.com/71186266/157553114-00a5305b-dd24-4cc5-bdaf-b589dc869b97.png" width=40%>
@@ -66,7 +66,7 @@
 <details>
 <summary>  <b> 3. ER 모델 부터 Entitiy까지 설계 해보는 프로젝트 디스코팡팡 (MySQL + Spring Boot) </b> </summary>
 
-#### 쇼핑몰 DB 설계 프로젝트 디스코팡팡 [<U>디스코팡팡</U>][Discopangpang]
+#### 쇼핑몰 DB 설계 프로젝트 [<U>디스코팡팡</U>][Discopangpang]
 [Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
 
 - <img src="https://user-images.githubusercontent.com/71186266/201029925-85c278b9-a794-47c8-8360-18e97fe3f40a.jpg" width=60%> 
@@ -76,9 +76,9 @@
 
 - 쇼핑몰 쿠팡의 화면을 분석하여 DB를 비슷하게 설계해보는 프로젝트.
 - 추측한 내용을 기반으로 관계 모델과 ER 다이어그램을 그려보고 Spring Entitiy까지 설계.
-- 간단한 비즈니스 로직 작성이후, MySQL과 연동하여 쿼리를 날려 보았다. 
+- 간단한 비즈니스 로직과, 클라이언트단 설계 예정. 
 
-- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 </details>
 
 <details>
@@ -122,6 +122,8 @@
 
 
 <!--
+맨날 찾는 아이콘 검색 사이트: https://simpleicons.org/
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binary-ho&layout=compact&theme=cobalt"/>
 </p>
