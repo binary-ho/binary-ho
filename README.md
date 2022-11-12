@@ -69,8 +69,8 @@
 #### 쇼핑몰 DB 설계 프로젝트 [<U>디스코팡팡</U>][Discopangpang]
 [Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
 
-- <img src="https://user-images.githubusercontent.com/71186266/201029925-85c278b9-a794-47c8-8360-18e97fe3f40a.jpg" width=60%> 
-- <img src="https://user-images.githubusercontent.com/71186266/200966471-2501173d-4af0-43fb-9920-1be21d2d24d9.png" width=60%>
+- <img src="https://user-images.githubusercontent.com/71186266/201459483-44a21461-4dc3-42ce-af6f-5150d10415d7.jpg" width=60%> 
+- <img src="https://user-images.githubusercontent.com/71186266/201459771-43f1082d-97c9-461b-8105-2afa507ac02a.png" width=60%>
 - <img src="https://user-images.githubusercontent.com/71186266/201471625-d74eff09-d701-4634-8955-209f7c2384ce.png" width=40%> <img src="https://user-images.githubusercontent.com/71186266/201471626-1f902a00-a4c2-44d6-a35b-a662453a7c31.png" width=40%> 
 
 
