@@ -71,7 +71,7 @@
 
 - <img src="https://user-images.githubusercontent.com/71186266/201029925-85c278b9-a794-47c8-8360-18e97fe3f40a.jpg" width=60%> 
 - <img src="https://user-images.githubusercontent.com/71186266/200966471-2501173d-4af0-43fb-9920-1be21d2d24d9.png" width=60%>
-- <img src="https://user-images.githubusercontent.com/71186266/201059647-1ed5f690-fb42-41d6-8a6c-ba31ff8e071c.png" width=40%> <img src="https://user-images.githubusercontent.com/71186266/201059652-14c7b0e3-e3d9-4294-a5c4-b77d2b97e004.png" width=40%> 
+- <img src="https://user-images.githubusercontent.com/71186266/201471625-d74eff09-d701-4634-8955-209f7c2384ce.png" width=40%> <img src="https://user-images.githubusercontent.com/71186266/201471626-1f902a00-a4c2-44d6-a35b-a662453a7c31.png" width=40%> 
 
 
 - 쇼핑몰 쿠팡의 화면을 분석하여 DB를 비슷하게 설계해보는 프로젝트.
