@@ -74,7 +74,7 @@
 [Discopangpang]: https://github.com/binary-ho/Discopangpang/ "Go Discopangpang"
 
 - <img src="https://user-images.githubusercontent.com/71186266/201459483-44a21461-4dc3-42ce-af6f-5150d10415d7.jpg" width=60%> 
-- <img src="https://user-images.githubusercontent.com/71186266/201459771-43f1082d-97c9-461b-8105-2afa507ac02a.png" width=60%>
+- <img src="https://user-images.githubusercontent.com/71186266/201605825-20fe821b-0ee6-47a6-9399-f460a8400e67.png" width=60%>
 - <img src="https://user-images.githubusercontent.com/71186266/201471625-d74eff09-d701-4634-8955-209f7c2384ce.png" width=40%> <img src="https://user-images.githubusercontent.com/71186266/201471626-1f902a00-a4c2-44d6-a35b-a662453a7c31.png" width=40%> 
 
 
