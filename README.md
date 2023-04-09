@@ -100,6 +100,12 @@ ver 1까지는 프론트엔드, 백엔드, 인프라 모두를 담당했습니�
 차후 학생들 간의 과제물을 공유와, 교육팀 분들의 과제 검수 문제를 해결을 위한 기능들을 도입할 예정입니다.
 ### [I'm here server 레포지토리](https://github.com/binary-ho/imhere-server)
 
+- <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+  
+- <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
+  
+ 
 </details>
 
 <br> <br>
