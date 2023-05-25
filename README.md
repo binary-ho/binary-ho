@@ -11,15 +11,11 @@
 <details>
 <summary>  <b> 1. 함께 성장하기 위해 다양한 노력을 합니다! </b> </summary>
 
-## 2.1 GDSC Hongik Backend Team
-- [<b>팀 스터디 레포지토리</b>](https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/master/binary-ho)
-
-
-## 2.2 홍익대학교 DevTalk 발표 영상
+## 2.1 홍익대학교 DevTalk 발표 영상
 - [<b>객체지향과 디미터 법칙</b>](https://www.youtube.com/watch?v=tdXd-f7QCnE)
 - [<b>A Star Algorithm과 Theta Star Algorithm</b>](https://www.youtube.com/watch?v=eY1BTlvbCXA)
 
-## 2.3 GDSC Open Community 강사, 멘토링 활동 (23/03 ~ 23/06)
+## 2.2 GDSC Open Community 강사, 멘토링 활동 (23/03 ~ 23/06)
 저희 홍익대학교는 선후배간 교류가 적고, 학우간 개발 지식의 공유가 부족한 편입니다. <br>
 혼자 공부하는 것의 어려움을 잘 아는 만큼 GDSC Open Community를 통해 이런 문제를 해결하기 위해 노력하고 있습니다. <br>
 
@@ -35,12 +31,16 @@
 
 그리고 기초 백엔드 스터디의 공동 멘토를 맡고 있습니다. <br>
 
-## 2.4 페어 프로그래밍 멘토링 참여
+## 2.3 페어 프로그래밍 멘토링 참여
 좋은 기회로 멘토링과 페어 프로그래밍을 경험해 보았습니다. <br> 페어와 하루 종일 함께 개발하며, 많은 것을 배웠고, <Br> 멘토님들의 사려 깊은 피드백과 소통으로 함께 성장했습니다. 
 
 - [멘토링 레포지토리](https://github.com/hongik-dev-mentoring)
 - [페어 프로그래밍 레포지토리](https://github.com/hongik-dev-mentoring/java-lotto)
 
+## 2.4 함께 성장하기 위한 단체 스터디에 참여합니다. 
+- [<b>GDSC Hongik Backend Team 스터디 레포지토리</b>](https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/master/binary-ho)
+- [<b>백기선 자바 라이브 스터디</b>](https://github.com/java-live-study/live-study/issues)
+  
 </details>
 
 
