@@ -2,7 +2,7 @@
 🙋‍♂️ 안녕하세요 이진호입니다!🙋‍♂️
 ==
 ### 함께 성장해 나가는 것을 목표로 합니다! 
-### 문제가 해결 될 때까지 시도합니다!
+// ### 문제가 해결 될 때까지 시도합니다!
 
 <br> <br>
 
@@ -64,40 +64,25 @@
 </details>
 
 
-
-
-
-<details>
-<summary>  <b> 3. 온라인 학습 플랫폼의 정석 MANEE (2022/06 ~ 2023/01) </b> </summary>
-
-### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정입니다. <br> [바로가기](https://manee-prod.web.app/) <br>
-
-manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선을 경험했습니다. <br>
-- [백엔드와 비동기 처리로 브라우저의 부담을 줄여주자!!](https://dwaejinho.tistory.com/entry/backend-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%A1%9C%EC%A7%81%EC%9D%84-%EB%B0%B1%EC%95%A4%EB%93%9C%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
-
-- [firebase 쿼리 비효율 개선](https://github.com/binary-ho/TIL-public/blob/main/Firebase/firebase%20%EC%BF%BC%EB%A6%AC%20%EB%B9%84%ED%9A%A8%EC%9C%A8%20%EA%B0%9C%EC%84%A0.md)
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
-
-</details>
-
 <details>
 <summary> 
-  <b> 4. 출석 프로그램 i'm here - 현재 사용중! </b> 
+  <b> 3. GDSC Hongik의 출석 프로그램 i'm here - 현재 사용중! </b> 
 </summary>
 
 현재 강의중인 [GDSC 웹 기초 스터디](https://www.youtube.com/watch?v=KpxVNBJ9UDw)의 수강 신청 인원은 140명입니다. <Br>
 매주 수업 시작 전 140분의 출석을 불러야 하는 문제를 해결하기 위해 직접 서비스를 개발했습니다.
 
 ### [I'm here 바로가기 - imhere.im](https://imhere.im)
-ver 1까지는 프론트엔드, 백엔드, 인프라 모두를 담당했습니다. <br>
+첫 배포시까지 프론트엔드, 백엔드, 인프라 모두를 담당했습니다. 현재는 프론트엔드 외의 다른 부분을 맡고 있습니다 <br>
 구글 메일 인증을 통해 가입할 수 있습니다. <Br>
 매 수업 시작시 10분간 유효한 출석 번호를 발급할 수 있으며, <br> 
 한번에 백 몇십명이 모이는 상황을 대비해 redis에 출석 번호를 저장하여, 회원이 제출한 출석번호와 대조합니다. <br>
 대리 출석 방지를 위해 출석 번호 제출시 학교와의 거리를 측정하여 저장합니다. <br>
 현재 실제 수업에서 사용중이며, 다른 강사님들도 사용할 예정입니다. <br>
 급한 개발과 설계 미숙으로 인한 부족한 부분들을 인지하고 개선중입니다. <br>
-차후 학생들 간의 과제물을 공유와, 교육팀 분들의 과제 검수 문제를 해결을 위한 기능들을 도입할 예정입니다.
+
+미흡한 부분을 계속해서 고쳐나가고 있고, 개선할 수 있는 부분은 개선중입니다. 다음 학기 부터 작은 커뮤니티로 활용할 예정입니다. 
+
 ### [I'm here server 레포지토리](https://github.com/binary-ho/imhere-server)
 
 - <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -106,6 +91,22 @@ ver 1까지는 프론트엔드, 백엔드, 인프라 모두를 담당했습니�
 - <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
   
  
+</details>
+
+
+<details>
+<summary>  <b> 4. 온라인 학습 플랫폼의 정석 MANEE (2022/06 ~ 2023/01) </b> </summary>
+
+### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정입니다. <br> [바로가기](https://maneestudy.com/) <br>
+
+manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선을 경험했습니다. <br>
+- 다양한 피처와 페이지를 개발하고 리팩토링함
+- [FaaS와 비동기 처리로 브라우저의 부담 줄여주기](https://dwaejinho.tistory.com/entry/backend-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%A1%9C%EC%A7%81%EC%9D%84-%EB%B0%B1%EC%95%A4%EB%93%9C%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
+- 클래스형 컴포넌트에서 함수형 컴포넌트로 전환
+- [비효율적인 NoSQL firebase 쿼리](https://github.com/binary-ho/TIL-public/blob/main/Firebase/firebase%20%EC%BF%BC%EB%A6%AC%20%EB%B9%84%ED%9A%A8%EC%9C%A8%20%EA%B0%9C%EC%84%A0.md)
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
+
 </details>
 
 <br> <br>
