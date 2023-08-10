@@ -3,43 +3,47 @@
 ==
 ### 함께 성장해 나가는 것을 목표로 합니다! 
 
-<br> <br>
+<br>
 
 # ⚡ 활동 ⚡
 
 <details>
 <summary>  <b> 1. 함께 성장하기 위해 다양한 노력을 합니다! </b> </summary>
 
-## 2.1 홍익대학교 DevTalk 발표 영상
+## 1.1 홍익대학교 DevTalk 발표 영상
 - [<b>객체지향과 디미터 법칙</b>](https://www.youtube.com/watch?v=tdXd-f7QCnE)
 - [<b>A Star Algorithm과 Theta Star Algorithm</b>](https://www.youtube.com/watch?v=eY1BTlvbCXA)
 
-## 2.2 GDSC Open Community 강사, 멘토링 활동 (23/03 ~ 23/06)
+## 1.2 GDSC Open Community 강사, 멘토링 활동 (23/03 ~ 23/06)
 저희 홍익대학교는 선후배간 교류가 적고, 학우간 개발 지식의 공유가 부족한 편입니다. <br>
 혼자 공부하는 것의 어려움을 잘 아는 만큼 GDSC Open Community를 통해 이런 문제를 해결하기 위해 노력하고 있습니다. <br>
 
 <b> 이에 홍익대학교 컴퓨터 공학과 학생을 대상으로 기초 웹 스터디를 강의하고 있습니다. </b> <br>
-현재 140분이 수강중이며, 어려운 걸 재미있고 쉽게 알려주기 위해 노력합니다!
+현재 140분이 수강중이며, 어려운 기술을 재미있고 쉽게 알려주기 위해 다양한 노력을 기울였습니다. <br>
 
 - [<b>기초 웹 스터디 강의 소개 페이지</b>](https://www.gdschongik.com/web-study/introduce) 
 - [<b>수업과 실습 영상 유튜브</b>](https://www.youtube.com/watch?v=KpxVNBJ9UDw)
 - [<b>질문 답변 공간</b>](https://dwaejinho.tistory.com/entry/GIT-GitThe-Information-Manager-from-Hell-%EA%B9%83%EA%B3%BC-%EA%B9%83%ED%97%88%EB%B8%8C)
 
-140분의 출석에 여러움을 해결하기 위해 출석 서비스를 만들었습니다.
-- [i'm here! 바로가기](https://imhere.im)
+그리고 기초 백엔드 스터디와 자바 스터디의 공동 멘토를 맡았습니다.
 
-그리고 기초 백엔드 스터디의 공동 멘토를 맡고 있습니다. <br>
+- [<b> 모던 자바인 액션 스터디 레포지토리 </b>](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
 
-## 2.3 페어 프로그래밍 멘토링 참여
+<br>
+
+
+
+## 1.3 함께 성장하기 위한 단체 스터디에 참여합니다. 
+- [<b>GDSC Hongik Backend Team 스터디 레포지토리</b>](https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/master/binary-ho)
+- [<b>백기선 자바 라이브 스터디</b>](https://github.com/java-live-study/live-study/issues)
+- [<b> 모던 자바인 액션 스터디 레포지토리 </b>](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
+
+## 1.4 페어 프로그래밍 멘토링 참여
 좋은 기회로 멘토링과 페어 프로그래밍을 경험해 보았습니다. <br> 페어와 하루 종일 함께 개발하며, 많은 것을 배웠고, <Br> 멘토님들의 사려 깊은 피드백과 소통으로 함께 성장했습니다. 
 
 - [멘토링 레포지토리](https://github.com/hongik-dev-mentoring)
 - [페어 프로그래밍 레포지토리](https://github.com/hongik-dev-mentoring/java-lotto)
 
-## 2.4 함께 성장하기 위한 단체 스터디에 참여합니다. 
-- [<b>GDSC Hongik Backend Team 스터디 레포지토리</b>](https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/master/binary-ho)
-- [<b>백기선 자바 라이브 스터디</b>](https://github.com/java-live-study/live-study/issues)
-  
 </details>
 
 
@@ -65,52 +69,48 @@
 
 <details>
 <summary> 
-  <b> 3. GDSC Hongik의 출석 프로그램 i'm here - 현재 사용중! </b> 
+  <b> 3. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </b> 
 </summary>
 
 현재 강의중인 [GDSC 웹 기초 스터디](https://www.youtube.com/watch?v=KpxVNBJ9UDw)의 수강 신청 인원은 140명입니다. <Br>
 매주 수업 시작 전 140분의 출석을 불러야 하는 문제를 해결하기 위해 직접 서비스를 개발했습니다.
 
 ### [I'm here 바로가기 - imhere.im](https://imhere.im)
-첫 배포시까지 프론트엔드, 백엔드, 인프라 모두를 담당했습니다. 현재는 프론트엔드 외의 다른 부분을 맡고 있습니다 <br>
-구글 메일 인증을 통해 가입할 수 있습니다. <Br>
-매 수업 시작시 10분간 유효한 출석 번호를 발급할 수 있으며, <br> 
-한번에 백 몇십명이 모이는 상황을 대비해 redis에 출석 번호를 저장하여, 회원이 제출한 출석번호와 대조합니다. <br>
-대리 출석 방지를 위해 출석 번호 제출시 학교와의 거리를 측정하여 저장합니다. <br>
-현재 실제 수업에서 사용중이며, 다른 강사님들도 사용할 예정입니다. <br>
-급한 개발과 설계 미숙으로 인한 부족한 부분들을 인지하고 개선중입니다. <br>
+첫 배포시까지 프론트엔드, 백엔드, 배포 모두를 담당했습니다. <br>
 
-미흡한 부분을 계속해서 고쳐나가고 있고, 개선할 수 있는 부분은 개선중입니다. 다음 학기 부터 작은 커뮤니티로 활용할 예정입니다. 
 
 ### [I'm here server 레포지토리](https://github.com/binary-ho/imhere-server)
 
 - <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
   
-- <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
-  
+- <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+
+### 관련 글
+- [@WithSecurityContext를 이용해 커스텀 UserDetails SecurityContext Test 코드 작성하기](https://dwaejinho.tistory.com/entry/%EC%BB%A4%EC%8A%A4%ED%85%80-UserDetails-SecurityContext-Test-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+- [S3와 CloudFront를 활용한 배포와 보안 설정](https://dwaejinho.tistory.com/entry/%EC%B6%A9%EA%B2%A9-S3-Hosting-%EC%9D%B4%EA%B2%83-%EC%84%A4%EC%A0%95-%EC%95%88-%ED%95%98%EC%9E%90-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%A0%EC%88%A0)
+- [Nginx 다중 소스 허용과 if 문법](https://dwaejinho.tistory.com/entry/Nginx-%EC%95%85%EB%A7%88%EC%9D%98-IF-Dont-try-if-at-home)
  
 </details>
 
 
 <details>
-<summary>  <b> 4. 온라인 학습 플랫폼의 정석 MANEE (2022/06 ~ 2023/01) </b> </summary>
+<summary>  <b> 4. 온라인 학습 플랫폼의 정석 MANEE </b> </summary>
 
-### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정입니다. <br> [바로가기](https://maneestudy.com/) <br>
+### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정 <br> [바로가기](https://maneestudy.com/) <br>
 
 manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선을 경험했습니다. <br>
-- 다양한 피처와 페이지를 개발하고 리팩토링함
+- 회원 초대, 랭킹, 결제 등 다양한 피처와 페이지를 개발했습니다.
+- 성능을 개선하기 위해 항상 고민하고 리팩토링했습니다.
 - [FaaS와 비동기 처리로 브라우저의 부담 줄여주기](https://dwaejinho.tistory.com/entry/backend-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%A1%9C%EC%A7%81%EC%9D%84-%EB%B0%B1%EC%95%A4%EB%93%9C%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 - 클래스형 컴포넌트에서 함수형 컴포넌트로 전환
 - [비효율적인 NoSQL firebase 쿼리](https://github.com/binary-ho/TIL-public/blob/main/Firebase/firebase%20%EC%BF%BC%EB%A6%AC%20%EB%B9%84%ED%9A%A8%EC%9C%A8%20%EA%B0%9C%EC%84%A0.md)
-
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
 
 </details>
 
 <br> <br>
 
-#### 개인 프로젝트
+#### 그 외의 프로젝트
 
 <details>
 <summary>  <b> 5. 익명 채팅 웹 사이트 시장통 </b> </summary>
