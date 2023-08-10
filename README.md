@@ -5,10 +5,10 @@
 
 <br>
 
-# ⚡ 활동 ⚡
+# ⚡ 활동 및 프로젝트 ⚡
 
 <details>
-<summary>  <b> 1. 함께 성장하기 위해 다양한 노력을 합니다! </b> </summary>
+<summary>  <h3> 1. 함께 성장하기 위해 다양한 노력을 합니다! </h3> </summary>
 
 ## 1.1 홍익대학교 DevTalk 발표 영상
 - [<b>객체지향과 디미터 법칙</b>](https://www.youtube.com/watch?v=tdXd-f7QCnE)
@@ -46,30 +46,9 @@
 
 </details>
 
-
-<details>
-<summary> <b> 2. 🎮 PS를 좋아합니다! 🎮 </b> </summary>
-
-## 알고리즘 관련 레포지토리
-
-### [1. 알고리즘 자료구조 공부 정리 레포지토리](https://github.com/binary-ho/Algorithm-and-Data-Structure)
-### [2. 자료구조 전공 수업 레포지토리](https://github.com/binary-ho/TIL-public/tree/main/3%ED%95%99%EB%85%84%202%ED%95%99%EA%B8%B0/Data%20Structure)
-### [3. PS 코드 자동 저장 레포지토리 + 해설](https://github.com/binary-ho/BaekjoonRecord)
-  
-
-## BOJ tier
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)  
-
-
-### 외부 활동
-- Samsung dx winter S/W algorithm Course (2021/12 ~ 2022/2)
-
-</details>
-
-
 <details>
 <summary> 
-  <b> 3. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </b> 
+  <h3> 2. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </h3> 
 </summary>
 
 현재 강의중인 [GDSC 웹 기초 스터디](https://www.youtube.com/watch?v=KpxVNBJ9UDw)의 수강 신청 인원은 140명입니다. <Br>
@@ -95,7 +74,7 @@
 
 
 <details>
-<summary>  <b> 4. 온라인 학습 플랫폼의 정석 MANEE </b> </summary>
+<summary> <h3> 3. 온라인 학습 플랫폼의 정석 MANEE </h3> </summary>
 
 ### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정 <br> [바로가기](https://maneestudy.com/) <br>
 
@@ -108,9 +87,32 @@ manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선�
 
 </details>
 
+
+<details>
+<summary> <h3> 4. 🎮 PS를 좋아합니다! 🎮 </h3> </summary>
+
+## 알고리즘 관련 레포지토리
+
+### [1. 알고리즘 자료구조 공부 정리 레포지토리](https://github.com/binary-ho/Algorithm-and-Data-Structure)
+### [2. 자료구조 전공 수업 레포지토리](https://github.com/binary-ho/TIL-public/tree/main/3%ED%95%99%EB%85%84%202%ED%95%99%EA%B8%B0/Data%20Structure)
+### [3. PS 코드 자동 저장 레포지토리 + 해설](https://github.com/binary-ho/BaekjoonRecord)
+  
+
+## BOJ tier
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)  
+
+
+### 외부 활동
+- Samsung dx winter S/W algorithm Course (2021/12 ~ 2022/2)
+
+</details>
+
+
+
+
 <br> <br>
 
-#### 그 외의 프로젝트
+#### 그 외 프로젝트
 
 <details>
 <summary>  <b> 5. 익명 채팅 웹 사이트 시장통 </b> </summary>
