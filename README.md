@@ -4,7 +4,7 @@
 
 <br>
 
-# 1. 활동 및 프로젝트
+## 1. 활동 및 프로젝트
 
 <details>
 <summary>  <h4> 1. 함께 성장하기 위해 다양한 노력을 합니다! </h4> </summary>
@@ -54,7 +54,7 @@
 
 <details>
 <summary> 
-  <h3> 2. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </h3> 
+  <h4> 2. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </h4> 
 </summary>
 
 현재 강의중인 [GDSC 웹 기초 스터디](https://www.youtube.com/watch?v=KpxVNBJ9UDw)의 수강 신청 인원은 140명입니다. <Br>
@@ -80,7 +80,7 @@
 
 
 <details>
-<summary> <h3> 3. 온라인 학습 플랫폼의 정석 MANEE </h3> </summary>
+<summary> <h4> 3. 온라인 학습 플랫폼의 정석 MANEE </h4> </summary>
 
 ### 온라인 학습 플랫폼의 정석 MANEE! 23년 6월 출시 예정 <br> [바로가기](https://maneestudy.com/) <br>
 
@@ -95,7 +95,7 @@ manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선�
 
 
 <details>
-<summary> <h3> 4. 🎮 PS를 좋아합니다! 🎮 </h3> </summary>
+<summary> <h4> 4. 🎮 PS를 좋아합니다! 🎮 </h4> </summary>
 
 ## 알고리즘 관련 레포지토리
 
