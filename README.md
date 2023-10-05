@@ -1,13 +1,12 @@
 
 🙋‍♂️ 안녕하세요 이진호입니다!🙋‍♂️
-==
 
 <br>
 
 ## 1. 활동 및 프로젝트
 
 <details>
-<summary>  <h4> 1. 함께 성장하기 위해 다양한 노력을 합니다! </h4> </summary>
+<summary>  <b> 1. 함께 성장하기 위해 다양한 노력을 합니다! </b> </summary>
 
 ## 1.1 홍익대학교 DevTalk 발표 영상
 - [<b>객체지향과 디미터 법칙</b>](https://www.youtube.com/watch?v=tdXd-f7QCnE)
