@@ -114,9 +114,16 @@
 - [1. 알고리즘 자료구조 공부 정리 레포지토리](https://github.com/binary-ho/Algorithm-and-Data-Structure)
 - [2. 자료구조 전공 수업 레포지토리](https://github.com/binary-ho/TIL-public/tree/main/3%ED%95%99%EB%85%84%202%ED%95%99%EA%B8%B0/Data%20Structure)
 - [3. PS 코드 자동 저장 레포지토리 + 해설](https://github.com/binary-ho/BaekjoonRecord) <br> <br>
-- BOJ tier <br>
+- <b> BOJ tier </b> <br>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)   <br> <br>
+
+- <b> Programmers </b> <br>
+
+![image](https://github.com/binary-ho/binary-ho/assets/71186266/25ae9285-b94f-48df-a6b4-55adfd1f424b) <br> <br>
+
+
 - 외부 활동 : Samsung dx winter S/W algorithm Course (2021/12 ~ 2022/2)
+
 
 </details>
 
