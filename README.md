@@ -1,94 +1,75 @@
+<b> 안녕하세요 이진호입니다. </b> <br>
+비전공자 시절, 게임을 만들어 보고 싶었던 어린 시절의 꿈을 잊지 못해 처음 C언어 책을 들었고, 개발의 재미를 배우게 되었습니다. <br> 
+다양한 개발 분야를 경험했고, 지금은 서버 개발자로 살아가고 있습니다. <br>
 
-<b> 안녕하세요 이진호입니다! </b>
+<b> ▪️  기술 스택 : Java, Spring Boot, MySQL </b>
 
 <br>
 
-<b> 1. 활동 및 프로젝트 </b>
-
-<details>
+<!-- <details>
 <summary> 
-  <b> 1. GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </b> 
+  <b> 1. 프로젝트 활동 </b> 
 </summary>
 
 <br> 
 
-처음 동아리에서 학생들을 위한 강의를 계획할 때 30명의 인원을 예상했습니다. <br>
-<b> 그러나 실제로는 140명의 신청자가 몰렸고, 동아리에서 발생한 수강생 출결 관리 문제를 직접 해결하기 위해 만든 서비스입니다. <br>
-매 학기 수백명이 이용 중이며, 계속 발전시키고 있습니다. </b>
+<b> 1.1 GDSC Hongik의 출석 및 과제물 공유 서비스 I'm here </b> 
+
+- <b> 문제 </b> : 교내의 개발 입문자를 위한 인프라 부족 문제를 해결하기 위해 무료 강의를 개설했습니다. 
+처음 20명의 신청 인원을 예상하며 강의를 준비했지만, 실제론 140명의 신청자가 몰렸고, 동아리 내부적으로 강의 출결 관리와 과제물 관리에 대한 고민이 있었습니다. 
+- <b> 해결 </b> : 이 문제를 해결하기 위해 직접 출석 서비스를 구현하였습니다.  매 학기 수백명이 이용 중이며, 끊임 없이 리팩토링을 진행중입니다.
+<b> 주변의 문제를 주도적으로 해결하기 위해 노력합니다. </b>
 
 
-- 웹 사이트 : [I'm here 바로가기 - imhere.im](https://imhere.im) <br> 프론트엔드, 백엔드, 배포 모두를 담당했습니다. <br> 
-
+- 웹 사이트 : [I'm here 바로가기 - imhere.im](https://imhere.im) <br> 프론트엔드, 백엔드, 배포 담당 <br> 
 - 리포지토리 : [I'm here server 레포지토리](https://github.com/binary-ho/imhere-server)
-
 
 - <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
   
 - <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
-</details>
 
-<br> 
+<b> 2. 온라인 학습 플랫폼의 정석 MANEE </b>
 
 
-<details>
-<summary>  <b> 2. 함께 성장하기 위해 다양한 노력을 합니다! </b> </summary>
+</details> -->
 
-<br>
-
-<b> 2.1 홍익대학교 DevTalk 발표 영상 </b>
-- [<b>객체지향과 디미터 법칙</b>](https://www.youtube.com/watch?v=tdXd-f7QCnE)
-- [<b>A Star Algorithm과 Theta Star Algorithm</b>](https://www.youtube.com/watch?v=eY1BTlvbCXA)
-
-<br> 
-
-<b> 2.2 GDSC Open Community 강사, 멘토링 활동 (23/03 ~ 23/06) </b>
-
-![image](https://github.com/binary-ho/imhere-server/assets/71186266/8b7d3459-af4a-4c27-902f-8844757ae088)
-
-홍익대학교의 선후배간 교류 증진과, 개발 지식의 공유의 장을 만들기 위해 GDSC Hongik에 첫 맴버로 참여했습니다 <br>
-혼자 공부하는 것의 어려움을 잘 아는 만큼 GDSC Open Community는 학우분들을 위해 다양한 노력을 기울이고 있습니다. 
-
-<br>
-
-<b> 홍익대학교 컴퓨터 공학과 학생을 대상으로한 기초 웹 스터디를 강의했습니다. </b> <br>
-140분이 신청주셨고, 어려운 기술을 재미있고 쉽게 알려주기 위해 다양한 노력을 기울였습니다. <br>
-
-- [<b>기초 웹 스터디 강의 소개 페이지</b>](https://www.gdschongik.com/web-study/introduce) 
-- [<b>수업과 실습 영상 유튜브</b>](https://www.youtube.com/watch?v=KpxVNBJ9UDw)
-- [<b>질문 답변 공간</b>](https://dwaejinho.tistory.com/entry/GIT-GitThe-Information-Manager-from-Hell-%EA%B9%83%EA%B3%BC-%EA%B9%83%ED%97%88%EB%B8%8C)
-
-<br>
-
-- **입문자의 눈높이에 맞추기 위해 노력했습니다.**
-입문자 시절의 어려움을 이해하고 있어, 그들의 눈높이에 맞추려 노력했습니다. 단순히 문법 사용에 초점을 두는 수업보다는, 원리를 쉽고 재미있게 설명하려 노력했습니다. <br>
-쉽게 알려주기 위해 다양한 비유와 예시, 개발자 유머를 활용해 설명했습니다. 기술 도입의 배경과 스토리를 먼저 들려주며 흥미를 유도했습니다. <br> 어려운 주제는 강의 영상 및 추가 영상을 유튜브를 통해 제공하거나, pdf 자료 및 블로그 글을 직접 작성하여 제공했습니다. 실습 및 과제를 통해 이론을 넘어 코드와 가까워질 수 있는 기회를 마련했습니다. <br> 강의 및 실습, 과제 자료를 95% 이상 혼자 구성하고 제작했습니다. <br> <br>
-
-<b> 2.3 기초 백엔드 스터디와 자바 심화 스터디의 공동 멘토를 맡았습니다. </b>
-- [모던 자바인 액션 스터디 레포지토리](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
-
-<br>
-
-<b> 2.4 다양한 단체 스터디에 참여했습니다. </b>
-- [<b>GDSC Hongik Backend Team 스터디 레포지토리</b>](https://github.com/GDSC-Hongik/GDSC-1st-Backend-Study/tree/master/binary-ho)
-- [<b>백기선 자바 라이브 스터디</b>](https://github.com/java-live-study/live-study/issues)
-- [<b> 모던 자바인 액션 스터디 레포지토리 </b>](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
-
-<br>
-
-<b> 2.5 페어 프로그래밍 멘토링 참여 </b>
-페어 프로그래밍을 경험해 보았습니다. <br> 페어와 하루 종일 함께 개발하며, 많은 것을 배웠고, <Br> 멘토님들의 사려 깊은 피드백과 소통으로 함께 성장했습니다. 
-
-- [멘토링 레포지토리](https://github.com/hongik-dev-mentoring)
-- [페어 프로그래밍 레포지토리](https://github.com/hongik-dev-mentoring/java-lotto)
-
-</details>
-
-<br>
+<!-- <br>  -->
 
 
 <details>
+<summary>  <b>  강사 및 세미나 발표 활동 </b> </summary>
+
+<br>
+
+홍익대학교의 부족한 개발 인프라를 개선하기 위해 GDSC Hongik에 첫 맴버로 참여했습니다 <br>
+혼자 공부하는 것의 어려움을 잘 아는 만큼, 개발 입문지를 위한 다양한 활동을 했고, 개발 지식의 공유의 장을 만들기 위해 노력했습니다. <br>
+
+
+<b> 1. GDSC 웹 프로그래밍 스터디 강사 </b>
+
+- [**강의 영상 유튜브 링크 : https://bit.ly/3x2lqpC**](https://bit.ly/3x2lqpC)
+- **140명을 대상으로 한 학기 동안 강의했습니다**
+- 평균 90% 이상의 최고 참여율
+- 단순한 문법 사용법이 아닌 근본적인 원리와 도입 배경에 초점. 매주 익명 피드백으로 강의 개선
+
+<br>
+
+<b> 2. 발표 및 멘토링 활동 </b>
+
+<br>
+
+- [**객체지향 - 디미터 법칙 : https://bit.ly/4cSPhAW**](https://bit.ly/4cSPhAW)
+- [**Lamda & Stream - 도입 배경 부터 최적화 전략까지 : https://bit.ly/4cOrQZI**](https://bit.ly/4cOrQZI)
+- [<b> A* And θ* Algorithm : https://bit.ly/4cTEsi4 </b>](https://bit.ly/4cTEsi4)
+- [**모던 자바 인 액션 멘토링**](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
+
+<br> 
+
+</details>
+
+<!-- <details>
 <summary> <b> 3. 온라인 학습 플랫폼의 정석 MANEE </b> </summary>
 
 <Br> 
@@ -102,31 +83,37 @@
 
 </details>
 
-<br>
+<br> -->
 
 <details>
-<summary> <b> 4. 🎮 PS를 좋아합니다! 🎮 </b> </summary>
+<summary> <b>  자바를 좋아합니다 </b> </summary>
 
 <br>
 
-<b> 알고리즘 관련 레포지토리 </b>
+- [**블로그 작성 자바 글 모음**](https://dwaejinho.tistory.com/tag/Java)
+- [**이펙티브 자바 스터디**](https://github.com/binary-ho/TIL-public/tree/main/Effective%20Java)
+- [**모던 자바인 액션 스터디**](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
 
-- [1. 알고리즘 자료구조 공부 정리 레포지토리](https://github.com/binary-ho/Algorithm-and-Data-Structure)
-- [2. 자료구조 전공 수업 레포지토리](https://github.com/binary-ho/TIL-public/tree/main/3%ED%95%99%EB%85%84%202%ED%95%99%EA%B8%B0/Data%20Structure)
-- [3. PS 코드 자동 저장 레포지토리 + 해설](https://github.com/binary-ho/BaekjoonRecord) <br> <br>
-- <b> BOJ tier </b> <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)   <br> <br>
-
-- <b> Programmers </b> <br>
-
-![image](https://github.com/binary-ho/binary-ho/assets/71186266/25ae9285-b94f-48df-a6b4-55adfd1f424b) <br> <br>
-
-
-- 외부 활동 : Samsung dx winter S/W algorithm Course (2021/12 ~ 2022/2)
-
+<br> 
 
 </details>
 
+<details>
+<summary> <b>  자료구조와 알고리즘을 좋아합니다 </b> </summary>
+
+<br>
+
+- [<b> 발표 : A*와 θ* 알고리즘 : https://bit.ly/4cTEsi4 </b>](https://bit.ly/4cTEsi4)
+- [**글 : Red-Black Tree의 연산 과정과 Java Util 구현 코드로 이해하기 https://bit.ly/3U93GSr**](https://dwaejinho.tistory.com/entry/Java-Red-Black-Tree%EC%9D%98-%EC%97%B0%EC%82%B0-%EA%B3%BC%EC%A0%95%EA%B3%BC-Java-Util%EC%97%90%EC%84%9C%EC%9D%98-%EA%B5%AC%ED%98%84#1.%20Red-Black%20Tree%EB%9E%80-1)
+- [**글 : B+Tree 연산 과정 코드로 이해하기 https://bit.ly/3vxi8Kn**](https://bit.ly/3vxi8Kn)
+- [**자료구조 알고리즘 개념 및 코드 정리 : https://github.com/binary-ho/Algorithm-and-Data-Structure**](https://github.com/binary-ho/Algorithm-and-Data-Structure)
+- **Samsung dx winter S/W algorithm Course (2021/12 ~ 2022/2)**
+- <b> **BOJ** </b> <br>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11)   <br> <br>
+
+<br> 
+
+</details>
 
 <!--
 
