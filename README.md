@@ -1,10 +1,10 @@
 <b> 안녕하세요 이진호입니다. </b> <br>
 전자과 학생 시절, 게임을 만들어 보고 싶었던 어린 시절의 작은 꿈을 잊지 못해 처음 C언어 책을 들었습니다. <br> 
 만드는 것을 좋아하고, 일상과 업무 중에서 주도적으로 문제를 해결합니다.
-  * \[아티클] [금융 SI 폐쇄망 환경에서 20여개의 자동화 도구를 만들며 느낀 것들](https://dwaejinho.tistory.com/entry/%EA%B8%88%EC%9C%B5-SI%EC%97%90%EC%84%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4-%EC%9E%91%EC%84%B1%EC%A4%91)
+  * \[아티클] [금융 SI 폐쇄망 환경에서 20여개의 자동화 도구를 만들며 배운 것들](https://dwaejinho.tistory.com/entry/%EA%B8%88%EC%9C%B5-SI%EC%97%90%EC%84%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4-%EC%9E%91%EC%84%B1%EC%A4%91)
   * 동아리 내 출결 문제를 해결한 출결 서비스 [imhere](imhere.im)
-  * 생각을 머리에서 놓아주세요. 즉시 메모하세요. [**Jetbrains IDE Plugin - Quick Memo**](https://github.com/binary-ho/quick-memo)
-  * [Open Source Contributor] [CRDT 기반 실시간 동시편집 라이브러리 Yorkie Contributor](https://github.com/yorkie-team) (golang)
+  * \[Jetbrains IDE Plugin] 생각을 놓아주세요. 즉시 메모하세요. [**Quick Memo**](https://github.com/binary-ho/quick-memo)
+  * \[Open Source Contributor] [CRDT 기반 실시간 동시편집 라이브러리 Yorkie Contributor](https://github.com/yorkie-team) (golang)
   * [온라인 학습 플랫폼 MANEE](https://maneestudy.com) 창업팀 풀스택 개발자 (React)
 
 <details>
@@ -63,11 +63,11 @@
 
 <br> 
 
-▪️ \[기술 스택] Java, Spring Boot, MySQL </b> <br>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11) 
 
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11) 
+▪️ \[기술 스택] Java, Spring Boot, MySQL </b> <br>
 
 <!-- <details>
 <summary> 
