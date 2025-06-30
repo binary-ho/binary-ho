@@ -31,11 +31,11 @@
 
 <br>
 
-**더 쉽고 더 재밌게 전하기 위해 노력합니다.**
+**더 쉽고 더 재미있게 전하기 위해 노력합니다.**
 
   * [**Notion과 Figma는 어떻게 실시간 동시 편집이 가능할까?** (CRDT와 실시간 동시 편집)](https://www.notion.so/binary-ho/Notion-Figma-146df1791b99803b8588c1708bae87d1)
-  * [**객체지향 - 디미터 법칙 : https://bit.ly/4cSPhAW**](https://bit.ly/4cSPhAW)
-  * [**Lamda & Stream - 도입 배경 부터 최적화 전략까지 : https://bit.ly/4cOrQZI**](https://bit.ly/4cOrQZI)
+  * [**\[OOP\] 디미터 법칙 : https://bit.ly/4cSPhAW**](https://bit.ly/4cSPhAW)
+  * [**Java Lamda & Stream - 도입 배경 부터 최적화 전략까지 : https://bit.ly/4cOrQZI**](https://bit.ly/4cOrQZI)
   * [<b> A* And θ* Algorithm : https://bit.ly/4cTEsi4 </b>](https://bit.ly/4cTEsi4)
   * [**모던 자바 인 액션 멘토링**](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
   * [GDSC Hongik 웹 스터디 강의](https://www.youtube.com/live/KpxVNBJ9UDw?t=1492s)
@@ -55,6 +55,7 @@
   * 알고리즘 좋아
     * [다양한 자료구조와 알고리즘 탐구...](https://github.com/binary-ho/Algorithm-and-Data-Structure)
     * golang으로 구현해본 다양한 자료구조들.. [golang-data-structure](https://github.com/binary-ho/golang-data-structure)
+  * SK Devocean 아티클 [Lambda ＆ Stream의 도입 배경과 아름다운 동작 원리, 최적화 전략까지!](https://devocean.sk.com/blog/techBoardDetail.do?ID=166237)
 
 <br>
 
