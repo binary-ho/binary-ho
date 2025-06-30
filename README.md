@@ -1,11 +1,72 @@
 <b> 안녕하세요 이진호입니다. </b> <br>
-전자과 학생 시절, 게임을 만들어 보고 싶었던 어린 시절의 꿈을 잊지 못해 게임 개발을 위해 처음 C언어 책을 들었습니다. <br> 
-다양한 개발 분야를 경험했고, 좋은 개발자가 되기 위해 꾸준히 노력하고 있습니다. <br>
+전자과 학생 시절, 게임을 만들어 보고 싶었던 어린 시절의 작은 꿈을 잊지 못해 처음 C언어 책을 들었습니다. <br> 
+만드는 것을 좋아하고, 일상과 업무 중에서 주도적으로 문제를 해결합니다.
+  * \[아티클] [금융 SI 폐쇄망 환경에서 20여개의 자동화 도구를 만들며 느낀 것들](https://dwaejinho.tistory.com/entry/%EA%B8%88%EC%9C%B5-SI%EC%97%90%EC%84%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EB%8F%84%EC%9E%85%ED%95%98%EB%A9%B0-%EB%8A%90%EB%82%80-%EC%A0%90%EB%93%A4-%EC%9E%91%EC%84%B1%EC%A4%91)
+  * 동아리 내 출결 문제를 해결한 출결 서비스 [imhere](imhere.im)
+  * 생각을 머리에서 놓아주세요. 즉시 메모하세요. [**Jetbrains IDE Plugin - Quick Memo**](https://github.com/binary-ho/quick-memo)
+  * [Open Source Contributor] [CRDT 기반 실시간 동시편집 라이브러리 Yorkie Contributor](https://github.com/yorkie-team) (golang)
+  * [온라인 학습 플랫폼 MANEE](https://maneestudy.com) 창업팀 풀스택 개발자 (React)
 
-<b> ▪️ 기술 스택 : Java, Spring Boot, MySQL </b>
+<details>
+<summary> 
+  <b> 대외활동 </b> 
+</summary>
 
 <br>
 
+**다양한 개발자를 만나 이야기를 듣는 것을 좋아합니다.**
+  * \[OSSCA] Open Source Contribution Academny Team Yorkie 리드멘티, 멘토, 특별상 <br>
+  * \[강사] [GDSC Hongik 웹 스터디 강사](https://www.youtube.com/live/KpxVNBJ9UDw?t=1492s) </b> <br>
+  * \[개발 동아리] 개발 동아리 디프만 14기 [**인생 계획 서비스 반디부디**](www.bandiboodi.com) Backend 우수상 (Kotlin, Spring Boot) <br>
+  * \[멘토링] [모던 자바인 액션 스터디 멘토](https://github.com/gdg-hongik-univ/2023-2-OC-Java-Study)
+
+<br>
+
+</details>
+
+<details>
+<summary> 
+  <b> 발표활동 </b> 
+</summary>
+
+<br>
+
+**더 쉽고 더 재밌게 전하기 위해 노력합니다.**
+
+  * [**Notion과 Figma는 어떻게 실시간 동시 편집이 가능할까?** (CRDT와 실시간 동시 편집)](https://www.notion.so/binary-ho/Notion-Figma-146df1791b99803b8588c1708bae87d1)
+  * [**객체지향 - 디미터 법칙 : https://bit.ly/4cSPhAW**](https://bit.ly/4cSPhAW)
+  * [**Lamda & Stream - 도입 배경 부터 최적화 전략까지 : https://bit.ly/4cOrQZI**](https://bit.ly/4cOrQZI)
+  * [<b> A* And θ* Algorithm : https://bit.ly/4cTEsi4 </b>](https://bit.ly/4cTEsi4)
+  * [**모던 자바 인 액션 멘토링**](https://github.com/GDSC-Hongik/2023-2-OC-Java-Study)
+  * [GDSC Hongik 웹 스터디 강의](https://www.youtube.com/live/KpxVNBJ9UDw?t=1492s)
+
+<br>
+
+</details>
+
+<details>
+<summary> 
+  <b> 꾸준히 공부 </b> 
+</summary>
+
+  * [TIL](https://github.com/binary-ho/TIL-public)
+  * [10000-Bagger 주니어 FE/BE 개발자 스터디](https://github.com/10000-Bagger/free-topic-study)
+  * [기술 블로그](https://dwaejinho.tistory.com/)
+  * 알고리즘 좋아
+    * [다양한 자료구조와 알고리즘 탐구...](https://github.com/binary-ho/Algorithm-and-Data-Structure)
+    * golang으로 구현해본 다양한 자료구조들.. [golang-data-structure](https://github.com/binary-ho/golang-data-structure)
+
+<br>
+
+</details>
+
+<br> 
+
+▪️ \[기술 스택] Java, Spring Boot, MySQL </b> <br>
+
+<br>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfghcvb11)](https://solved.ac/profile/dfghcvb11) 
 
 <!-- <details>
 <summary> 
@@ -34,9 +95,7 @@
 <b> 2. 온라인 학습 플랫폼의 정석 MANEE </b>
 
 
-</details> -->
-
-<!-- <br>  -->
+</details>
 
 <details>
 <summary>  <b> 지식을 나누기 위해 노력합니다. </b> </summary>
@@ -71,22 +130,6 @@
 <br> 
 
 </details>
-
-<!-- <details>
-<summary> <b> 3. 온라인 학습 플랫폼의 정석 MANEE </b> </summary>
-
-<Br> 
-
-- 온라인 학습 플랫폼의 정석 MANEE입니다. [바로가기](https://maneestudy.com/) <br> 창업팀 manee에 풀스택으로 참여하여 다양한 기능 구현과 성능 개선을 경험했습니다. <br> <br>
-- 결제, 랭킹 등 다양한 피처와 페이지를 개발했습니다. <br> 성능을 개선하기 위해 항상 고민하고 리팩토링했습니다. <br> <br>
-- <b> 팀에서 기존에 사용 중인 이미지 URL을 다운받는 메서드 개선 <br> 100명 사진 로딩 평균 30.065초 → 평균 0.988 </b> <br> 
-  관련 글 : [FaaS와 비동기 처리로 브라우저의 부담 줄여주기](https://dwaejinho.tistory.com/entry/backend-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%A1%9C%EC%A7%81%EC%9D%84-%EB%B0%B1%EC%95%A4%EB%93%9C%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0) <br> <br>
-- 클래스형 컴포넌트에서 함수형 컴포넌트로 전환 <br> <br>
-- [비효율적인 NoSQL firebase 쿼리](https://github.com/binary-ho/TIL-public/blob/main/Firebase/firebase%20%EC%BF%BC%EB%A6%AC%20%EB%B9%84%ED%9A%A8%EC%9C%A8%20%EA%B0%9C%EC%84%A0.md)
-
-</details>
-
-<br> -->
 
 <details>
 <summary> <b>  자바를 좋아합니다 </b> </summary>
