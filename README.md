@@ -44,6 +44,7 @@
 
 </details>
 
+<!--
 <details>
 <summary> 
   <b> 꾸준히 공부 </b> 
@@ -60,6 +61,8 @@
 <br>
 
 </details>
+
+-->
 
 <br> 
 
